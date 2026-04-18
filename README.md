@@ -1,0 +1,1 @@
+# JA2026_PersonalRegistApp
